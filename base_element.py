@@ -1,0 +1,11 @@
+class Elements:
+    link_register = "//*[text()='Register']"
+    check_female = "#gender-female"
+    check_male = "#gender-male"
+    txt_first_name = "#FirstName"
+    txt_last_name = "#LastName"
+    txt_email = "#Email"
+    txt_password = "#Password"
+    txt_confirm_pw = "#ConfirmPassword"
+    btn_register = "#register-button"
+    msg_register_success = ".registration-result-page .result"
