@@ -5,6 +5,8 @@ This for auto demo only
 - The scenario is below: 
   - script will open site, click on register page and click Register
   - After that test will check register successful or not based on sucessfull message back
+
+
 How to run test:
 - Install python 3: https://www.python.org/downloads/
 - Install pipenv: https://pipenv-fork.readthedocs.io/en/latest/install.html
