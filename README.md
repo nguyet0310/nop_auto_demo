@@ -1,4 +1,5 @@
-# nop_auto_demo
+This page object model for nop test site:
+
 This for auto demo only
 - This framework using python, pytest and selenium to automate for the site
 - The scenario is below: 
