@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pyleniumio = "*"
 faker = "*"
+pytest-html = "*"
 
 [dev-packages]
 black = "*"
