@@ -8,6 +8,7 @@ How to run test:
 - Install python 3: https://www.python.org/downloads/
 - Install pipenv: https://pipenv-fork.readthedocs.io/en/latest/install.html
 - clone repo and then run: pipenv shell
+- Then to install required packages: pipenv install
 - Check packages are installed successfully and listed in virtual env by: pip list, sample as below:
 - <img width="541" alt="image" src="https://user-images.githubusercontent.com/32532761/159877513-f0b7b7a9-c0e8-450b-9cd9-0253972bfa02.png">
 - Setup python interpreter for you IDE, I'm using VS code so, click Shift + cmd + P -> select virtualenv of previous step
