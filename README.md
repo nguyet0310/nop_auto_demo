@@ -16,4 +16,7 @@ How to run test:
 - Then run command: python -m pytest tests/
 -> this will run test with scenario, and I use Faker to generate data test -> everytime, tests run, it will use a unique input
 
+- How to run html report:
+  python -m pytest tests/ --html report.html -> there will be a html report in root folder
+
 
